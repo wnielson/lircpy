@@ -33,3 +33,8 @@ Example:
 
     # Start listening for remote commands
     l = lircpy.Lirc(handler=Handler())
+
+    # Press some keys on the remote...
+
+    # Stop the listener
+    l.stop()
