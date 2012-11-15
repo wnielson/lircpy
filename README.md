@@ -6,7 +6,7 @@ A simple, pure-python script for easily accessing lirc with no external dependen
 Usage is really simple.  Simply import the module, define a handler and start
 the listener.
 
-Example::
+Example:
 
     import lircpy
 
